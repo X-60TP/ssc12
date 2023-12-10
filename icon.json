@@ -1,0 +1,14 @@
+{
+"name":"icon", 
+"description":"icon", 
+"icons":
+[
+	{"name":"JP", "url":"https://raw.githubusercontent.com/X-60TP/ssc12/main/icon/JP.png"},
+	{"name":"US", "url":"https://raw.githubusercontent.com/X-60TP/ssc12/main/icon/US.png"},
+	{"name":"SG", "url":"https://raw.githubusercontent.com/X-60TP/ssc12/main/icon/SG.png"},
+	{"name":"HK", "url":"https://raw.githubusercontent.com/X-60TP/ssc12/main/icon/HK.png"}, 
+	{"name":"TW", "url":"https://raw.githubusercontent.com/X-60TP/ssc12/main/icon/TW.png"},
+	{"name":"Netflix", "url":"https://raw.githubusercontent.com/X-60TP/ssc12/main/icon/Netflix.png"},
+	{"name":"YouTube", "url":"https://raw.githubusercontent.com/X-60TP/ssc12/main/icon/YouTube.png"}
+]
+}
